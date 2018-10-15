@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="Workspace" id="{3668cd7e-8ea8-4657-a329-ea2817714035}">
+        <property name="builtBanksOutputDirectory">
+            <value>E:/Unreal/SoundXP_Go/Content/FMOD</value>
+        </property>
+        <relationship name="masterEventFolder">
+            <destination>{8e38c265-5456-40f0-aff3-356e57e4f00a}</destination>
+        </relationship>
+        <relationship name="masterTagFolder">
+            <destination>{67cb031d-4896-45c8-b19e-bcb26b86c16e}</destination>
+        </relationship>
+        <relationship name="masterEffectPresetFolder">
+            <destination>{c65aafdb-b087-4417-a602-ea4b73e3f7fc}</destination>
+        </relationship>
+        <relationship name="masterParameterPresetFolder">
+            <destination>{d2697c34-420f-468c-8266-4bf48b1bff81}</destination>
+        </relationship>
+        <relationship name="masterBankFolder">
+            <destination>{4b15ec25-731f-43f3-83a9-28d29e2b1617}</destination>
+        </relationship>
+        <relationship name="masterAssetFolder">
+            <destination>{1248a13b-c1ae-44ca-895d-487bf76df05a}</destination>
+        </relationship>
+        <relationship name="mixer">
+            <destination>{4e730826-a2e0-44bc-9c1a-a13452eb6412}</destination>
+        </relationship>
+        <relationship name="platforms">
+            <destination>{8cc0c4b6-13f1-4d8e-86f7-b5881f7dd25a}</destination>
+            <destination>{89fd6fd7-a92d-4eaf-8f22-42f665fc50eb}</destination>
+        </relationship>
+    </object>
+</objects>

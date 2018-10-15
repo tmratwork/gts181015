@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{5255403b-eb84-4dec-ac3c-0ddd50ebb00f}">
+        <property name="assetPath">
+            <value>texie_normalize.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>62</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{1248a13b-c1ae-44ca-895d-487bf76df05a}</destination>
+        </relationship>
+    </object>
+</objects>
